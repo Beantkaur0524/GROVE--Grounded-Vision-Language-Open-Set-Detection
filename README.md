@@ -11,7 +11,7 @@ GROVE (Grounded Vision–Language Open-Set Detection) is a multimodal AI system 
 Traditional object detection models like YOLO and Faster R-CNN detect only predefined classes. GROVE overcomes this limitation by integrating vision and language, enabling detection of unseen objects.
 
 ## 🏗️ System Architecture
-![System Architecture](diagram.png)
+![System Architecture](diagram.jpeg)
 
 ## 🏗️ Methodology
 The GROVE system follows a multimodal pipeline:
