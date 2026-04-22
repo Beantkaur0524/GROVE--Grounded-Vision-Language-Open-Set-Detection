@@ -55,7 +55,7 @@ The GROVE system follows a multimodal pipeline:
 | BERT   | 0.02 | Text embedding value |
 
 
-![Comparison](images/output.png)
+![Comparison](result.png)
 
 ## 🖼️ Sample Output
 - Uploaded image is processed through the system  
@@ -63,8 +63,8 @@ The GROVE system follows a multimodal pipeline:
 - Labels and confidence scores are displayed  
 - Output reflects both visual and contextual understanding
 
-![Sample Output](images/output.png)
-![Sample Output](images/output.png)
+![Sample Output](sample.png)
+![Sample Output](output.png)
 
 ## ▶️ How to Run
 
