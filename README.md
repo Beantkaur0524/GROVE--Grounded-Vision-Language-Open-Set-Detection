@@ -39,8 +39,9 @@ This project uses publicly available datasets for object detection and multimoda
 👉 Download Link:  
 https://cocodataset.org/#download  
 
-👉 Direct Images (Sample):
-https://images.cocodataset.org/train2017/
+👉 Direct Downloads:  
+Train Images: http://images.cocodataset.org/zips/train2017.zip  
+Validation Images: http://images.cocodataset.org/zips/val2017.zip 
 
 
 ## ⚙️ Tech Stack
