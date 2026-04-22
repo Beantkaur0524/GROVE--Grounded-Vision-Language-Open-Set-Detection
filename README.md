@@ -36,7 +36,22 @@ The GROVE system follows a multimodal pipeline:
 ## 🧩 Models Used
 - **YOLO** → Object Detection (bounding boxes, object counts)  
 - **ResNet** → Visual Feature Extraction  
-- **BERT** → Text Understanding and Semantic Encoding  
+- **BERT** → Text Understanding and Semantic Encoding
+
+## 📦 Dataset
+
+This project uses publicly available datasets for object detection and multimodal learning.
+
+### 🔹 COCO Dataset (Primary)
+- Used for object detection tasks
+- Contains images with multiple object categories
+
+👉 Download Link:  
+https://cocodataset.org/#download  
+
+👉 Direct Images (Sample):
+https://images.cocodataset.org/train2017/
+
 
 ## ⚙️ Tech Stack
 - Python  
