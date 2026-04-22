@@ -32,7 +32,7 @@ The GROVE system follows a multimodal pipeline:
 
 This project uses publicly available datasets for object detection and multimodal learning.
 
-### 🔹 COCO Dataset (Primary)
+### 🔹 COCO Dataset 
 - Used for object detection tasks
 - Contains images with multiple object categories
 
@@ -42,7 +42,6 @@ https://cocodataset.org/#download
 👉 Direct Downloads:  
 Train Images: http://images.cocodataset.org/zips/train2017.zip  
 Validation Images: http://images.cocodataset.org/zips/val2017.zip 
-
 
 ## ⚙️ Tech Stack
 - Python  
