@@ -69,7 +69,8 @@ The GROVE system follows a multimodal pipeline:
 ## ▶️ How to Run
 
 ### 1. Clone Repository
-git clone [https://github.com/beantkaur/GROVE.git](https://github.com/beantkaur/GROVE.git)
+git clone 
+
 cd GROVE
 
 ### 2. Create Virtual Environment
