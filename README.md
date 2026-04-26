@@ -59,7 +59,7 @@ Validation Images: http://images.cocodataset.org/zips/val2017.zip
 | ResNet | 0.45 | Mean value of visual feature embeddings | Represents strength of image feature representation |
 | BERT   | 0.02 | Mean value of text embedding features | Represents semantic understanding of textual input |
 
-## 📈 Score Calculation
+### 📈 Score Calculation
 
 - **YOLO Score** = Total Detected Objects / Total Images  
 - **ResNet Score** = Mean (Feature Vector)  
