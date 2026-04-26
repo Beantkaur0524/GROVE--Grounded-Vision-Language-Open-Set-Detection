@@ -53,11 +53,17 @@ Validation Images: http://images.cocodataset.org/zips/val2017.zip
 
 ## 📊 Results
 
-| Model  | Value | Description |
-|--------|------|-------------|
-| YOLO   | 6.7  | Average detected objects |
-| ResNet | 0.45 | Visual feature representation |
-| BERT   | 0.02 | Text embedding value |
+| Model  | Score | Meaning of Score | Interpretation |
+|--------|------|-----------------|---------------|
+| YOLO   | 6.7  | Average number of detected objects per image | Indicates object detection capability (higher = more objects detected) |
+| ResNet | 0.45 | Mean value of visual feature embeddings | Represents strength of image feature representation |
+| BERT   | 0.02 | Mean value of text embedding features | Represents semantic understanding of textual input |
+
+## 📈 Score Calculation
+
+- **YOLO Score** = Total Detected Objects / Total Images  
+- **ResNet Score** = Mean (Feature Vector)  
+- **BERT Score** = Mean (Text Embedding)  
 
 
 ![Comparison](result.png)
